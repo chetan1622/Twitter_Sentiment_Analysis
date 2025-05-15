@@ -5,6 +5,7 @@ This project analyzes the sentiment of tweets (positive, negative, neutral) usin
 **Files Included**
 
 Final.ipynb: Final version of the sentiment analysis pipeline.
+
 Sentiment_twitter.ipynb: Earlier or working version of the notebook (or experimentation notebook).
 
 **Features**
